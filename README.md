@@ -1,0 +1,2 @@
+# sequel-koans
+Sequel playground
